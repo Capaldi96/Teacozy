@@ -100,3 +100,10 @@ h2, h3, h4{
 	flex-direction: column;
 	justify-content: center;
 }
+.contact{
+	height:200px;
+}
+.copyright{
+	text-align: left;
+	margin-left:20px;
+}
